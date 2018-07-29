@@ -1,2 +1,2 @@
 # ng-cli-proxy-sample
-Angular CLI Proxy Sample
+Angular CLIでProxyを利用した場合のサンプルを作成予定
