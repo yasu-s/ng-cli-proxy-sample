@@ -1,0 +1,11 @@
+<div>
+  <input type="text" [(ngModel)]="memo">
+  <button (click)="register()">memo register</button>
+</div>
+<br />
+<button (click)="refresh()">refresh</button>
+<ul>
+  <li *ngFor="let item of items">
+    {{ item.memo }}
+  </li>
+</ul>
